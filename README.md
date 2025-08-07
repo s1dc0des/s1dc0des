@@ -110,47 +110,6 @@
 
 ---
 
----
-
-## 📊 Advanced GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s1dc0des&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s1dc0des&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s1dc0des&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1dc0des&theme=radical" alt="Productive Time" />
-</div>
-
-
----
-
-## 🔥 Recent Activity & Blog Posts
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Latest%20Article-Smart%20Contract%20Gas%20Optimization-00D9FF?style=for-the-badge&logo=medium&logoColor=white" alt="Latest Article" />
-  <img src="https://img.shields.io/badge/Conference%20Talk-AI%20Agents%20in%20DeFi-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white" alt="Conference Talk" />
-  <img src="https://img.shields.io/badge/Research%20Paper-MEV%20Prevention%20Strategies-9F7AEA?style=for-the-badge&logo=arxiv&logoColor=white" alt="Research Paper" />
-</div>
-
-### 📝 Technical Blog Posts
-- 🚀 **"Building Production-Ready DeFi Protocols: A Complete Guide"** - *Deep dive into smart contract architecture*
-- 🤖 **"AI Agents for Blockchain: From Concept to Production"** - *Multi-agent systems for Web3*
-- ⚡ **"Rust vs Solidity: Performance Benchmarks"** - *Comprehensive blockchain language comparison*
-- 🛡️ **"Advanced Smart Contract Security Patterns"** - *Security-first development practices*
-
----
-
-## 🎵 What I'm Listening To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=radical&show_offline=false&background_color=0D1117&interchange=false&bar_color=00D9FF&bar_color_cover=false" alt="Spotify" />
-</div>
-
----
-
 ## 🚀 Featured Projects & Contributions
 
 <div align="center">
