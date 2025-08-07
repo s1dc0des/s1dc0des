@@ -24,121 +24,90 @@ Specializing in: Solidity | Rust | AI Automation | DeFi
 Building decentralized applications that bridge traditional tech with Web3 future
 ```
 
-```sh
-# current_focus --list
-🔗 Building next-generation DeFi protocols
-🤖 Developing AI agents for blockchain automation  
-🛡️ Smart contract security & auditing
-⚡ High-performance Rust blockchain applications
-🌐 Cross-chain interoperability solutions
+```python
+# focus.py
+current_projects = [
+    "next-generation DeFi protocols",
+    "AI agents for blockchain automation", 
+    "smart contract security & auditing",
+    "high-performance Rust blockchain apps",
+    "cross-chain interoperability solutions"
+]
 ```
 
-```sh
-# tech_stack --blockchain
-Solidity     ████████████████████ Expert
-Rust         ████████████████████ Expert  
-Ethereum     ████████████████████ Expert
-Web3.js      ███████████████████░ Advanced
-Polygon      ███████████████████░ Advanced
-Bitcoin      ██████████████████░░ Advanced
+```python
+# skills.py
+class Developer:
+    def __init__(self):
+        self.skills = {
+            'blockchain': ['Solidity', 'Rust', 'Ethereum', 'DeFi', 'Smart Contracts'],
+            'ai': ['Python', 'OpenAI', 'LangChain', 'AutoGen', 'ML'],
+            'frontend': ['React', 'Next.js', 'TypeScript', 'Web3'],
+            'devops': ['Docker', 'AWS', 'Hardhat', 'Foundry']
+        }
+        
+    def specializations(self):
+        return ['Web3 Development', 'AI Automation', 'System Architecture']
 ```
 
-```sh
-# tech_stack --ai
-Python       ████████████████████ Expert
-OpenAI       ███████████████████░ Advanced
-LangChain    ███████████████████░ Advanced
-AutoGen      ██████████████████░░ Advanced
-CrewAI       ██████████████████░░ Advanced
-TensorFlow   █████████████████░░░ Intermediate
+```python
+# projects.py
+portfolio = {
+    "defi_protocol_suite": {
+        "tech": ["Solidity", "Hardhat", "OpenZeppelin"],
+        "features": ["yield_farming", "amm", "gas_optimization", "cross_chain"]
+    },
+    "ai_trading_network": {
+        "tech": ["Python", "OpenAI", "Web3.py"],
+        "features": ["mev_extraction", "arbitrage", "risk_mgmt", "market_analysis"]
+    },
+    "rust_blockchain_node": {
+        "tech": ["Rust", "Substrate", "WASM"],
+        "features": ["consensus", "runtime_modules", "p2p", "cross_chain"]
+    },
+    "web3_dapp_framework": {
+        "tech": ["Next.js", "React", "Ethers.js"],
+        "features": ["wallet_mgmt", "multi_chain", "contract_layer", "web3_ui"]
+    }
+}
 ```
 
-```sh
-# tech_stack --frontend
-React        ████████████████████ Expert
-Next.js      ████████████████████ Expert
-TypeScript   ████████████████████ Expert
-Tailwind     ███████████████████░ Advanced
-Vue.js       ██████████████████░░ Advanced
-Node.js      ████████████████████ Expert
+```python
+# stats.py
+github_profile = {
+    "profile_views": 15200,
+    "focus": "Web3 & AI Development",
+    "status": "Senior Developer",
+    "experience_years": 5,
+    "contributions": "active",
+    "languages": {
+        "Solidity": 35,
+        "Rust": 25, 
+        "TypeScript": 20,
+        "Python": 15,
+        "Other": 5
+    }
+}
 ```
 
-```sh
-# tech_stack --devops
-Docker       ███████████████████░ Advanced
-Kubernetes   ██████████████████░░ Advanced
-AWS          ███████████████████░ Advanced
-Hardhat      ████████████████████ Expert
-Foundry      ████████████████████ Expert
-Git          ████████████████████ Expert
-```
+```python
+# contact.py
+social_links = {
+    "github": "https://github.com/s1dc0des",
+    "linkedin": "https://linkedin.com/in/s1dc0des",
+    "twitter": "https://twitter.com/s1dc0des",
+    "discord": "s1dc0des",
+    "telegram": "https://t.me/s1dc0des"
+}
 
-```sh
-# core_specializations
-┌─────────────────────────────┬─────────────────────────────┬─────────────────────────────┐
-│     🔗 Blockchain Dev       │      🤖 AI & Automation    │    🏗️ System Architecture  │
-├─────────────────────────────┼─────────────────────────────┼─────────────────────────────┤
-│ • Smart Contract Arch       │ • Autonomous AI Agents      │ • Scalable DApp Design      │
-│ • DeFi Protocol Development │ • Multi-Agent Systems       │ • Microservices             │
-│ • Cross-Chain Solutions     │ • Blockchain Integration    │ • Cloud Infrastructure      │
-│ • Gas Optimization          │ • Trading Bots & MEV        │ • Performance Optimization  │
-│ • Security Auditing         │ • Process Automation        │ • Technical Leadership      │
-└─────────────────────────────┴─────────────────────────────┴─────────────────────────────┘
-```
+expertise_areas = [
+    "Smart Contract Architecture",
+    "AI Agent Development",
+    "Rust Blockchain Solutions", 
+    "Security Auditing",
+    "Cross-Chain Protocols",
+    "DeFi Innovation"
+]
 
-```sh
-# featured_projects
-┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│                               🚀 Featured Projects                                      │
-├─────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                         │
-│  🔗 DeFi Protocol Suite                    🤖 AI Trading Agent Network                 │
-│  ├─ Solidity | Hardhat | OpenZeppelin     ├─ Python | OpenAI | Web3.py                │
-│  ├─ Yield farming & liquidity mining      ├─ Multi-agent MEV extraction               │  
-│  ├─ Advanced AMM implementations          ├─ Automated arbitrage detection            │
-│  ├─ Gas-optimized smart contracts         ├─ Risk management algorithms               │
-│  └─ Cross-chain bridge architecture       └─ Real-time market analysis                │
-│                                                                                         │
-│  ⚡ Rust Blockchain Node                   🌐 Web3 dApp Framework                      │
-│  ├─ Rust | Substrate | WASM              ├─ Next.js | React | Ethers.js              │
-│  ├─ High-performance consensus            ├─ Wallet connection management             │
-│  ├─ Custom runtime modules                ├─ Multi-chain support                      │
-│  ├─ P2P networking protocols              ├─ Smart contract interaction layer         │
-│  └─ Cross-chain communication             └─ Advanced Web3 UI components              │
-└─────────────────────────────────────────────────────────────────────────────────────────┘
-```
-
-```sh
-# stats --github
-Profile Views: [██████████████████████████████] 15.2K+
-Focus: Web3 & AI Development
-Status: Senior Developer  
-Experience: 5+ Years
-Contributions: Active across multiple repos
-Streak: Consistent daily commits
-Languages: Solidity 35% | Rust 25% | TypeScript 20% | Python 15% | Other 5%
-```
-
-```sh
-# connect --social
-github    → https://github.com/s1dc0des
-linkedin  → https://linkedin.com/in/s1dc0des  
-twitter   → https://twitter.com/s1dc0des
-discord   → s1dc0des
-telegram  → https://t.me/s1dc0des
-```
-
-```sh
-# expertise --available-for
-🔗 Smart Contract Architecture
-🤖 AI Agent Development  
-⚡ Rust Blockchain Solutions
-🛡️ Security Auditing
-🌐 Cross-Chain Protocols
-💰 DeFi Innovation
-```
-
-```sh
-# motto
-"Building the decentralized future, one smart contract at a time."
+motto = "Building the decentralized future, one smart contract at a time."
 ```
