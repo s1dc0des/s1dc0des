@@ -124,50 +124,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s1dc0des&theme=radical" alt="Productive Time" />
 </div>
 
----
-
-## 📈 Contribution Graph & Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1dc0des&theme=radical&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=9F9F9F" alt="Contribution Graph" />
-</div>
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=s1dc0des&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🎯 2024 Goals & Milestones
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🚀 Development Goals</h3>
-        <ul align="left">
-          <li>✅ Launch 3 major DeFi protocols</li>
-          <li>✅ Deploy 20+ AI automation agents</li>
-          <li>🔄 Build cross-chain bridge protocol</li>
-          <li>🔄 Contribute to 25+ open source projects</li>
-          <li>⏳ Research zero-knowledge applications</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>🌐 Community & Education</h3>
-        <ul align="left">
-          <li>✅ Mentor 10+ junior developers</li>
-          <li>✅ Write 15 technical articles</li>
-          <li>🔄 Speak at 5 Web3 conferences</li>
-          <li>🔄 Lead 3 security audit workshops</li>
-          <li>⏳ Launch Web3 education platform</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -262,59 +218,7 @@
   </table>
 </div>
 
-## 🏆 Achievements & Certifications
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🥇-Smart%20Contract%20Security%20Expert-FFD700?style=for-the-badge" alt="Security Expert" />
-  <img src="https://img.shields.io/badge/🏅-ConsenSys%20Certified-4E5EE4?style=for-the-badge" alt="ConsenSys" />
-  <img src="https://img.shields.io/badge/⭐-Top%201%25%20Web3%20Developer-00D9FF?style=for-the-badge" alt="Top Developer" />
-  <img src="https://img.shields.io/badge/🎯-MEV%20Research%20Contributor-FF6B6B?style=for-the-badge" alt="MEV Research" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🔍 Security Audits</h3>
-        <h2>50+</h2>
-        <p>Smart contracts audited</p>
-      </td>
-      <td align="center">
-        <h3>💰 TVL Secured</h3>
-        <h2>$100M+</h2>
-        <p>Total Value Locked</p>
-      </td>
-      <td align="center">
-        <h3>🤖 AI Agents</h3>
-        <h2>25+</h2>
-        <p>Production systems</p>
-      </td>
-      <td align="center">
-        <h3>⚡ Gas Saved</h3>
-        <h2>40%+</h2>
-        <p>Average optimization</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=s1dc0des&theme=radical&hide_border=true&bg_color=0D1117&color=4F8CC9&line=4F8CC9&point=9F9F9F" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎵 Currently Listening
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=radical&show_offline=false&background_color=0D1117&interchange=false&bar_color=4F8CC9&bar_color_cover=false" alt="Spotify" />
-</div>
-
----
 
 ## 🤝 Connect & Collaborate
 
@@ -334,9 +238,6 @@
   <a href="https://t.me/s1dc0des" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:s1dc0des@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 <div align="center">
@@ -345,56 +246,4 @@
     🔗 <strong>Smart Contract Architecture</strong> | 🤖 <strong>AI Agent Development</strong> | ⚡ <strong>Rust Blockchain Solutions</strong><br>
     🛡️ <strong>Security Auditing</strong> | 🌐 <strong>Cross-Chain Protocols</strong> | 💰 <strong>DeFi Innovation</strong>
   </p>
-</div>
-
----
-
-## 💡 Fun Facts & Philosophy
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3>🧠 Development Philosophy</h3>
-        <ul align="left">
-          <li>🔒 Security-first mindset</li>
-          <li>⚡ Performance optimization obsessed</li>
-          <li>🌐 Decentralization advocate</li>
-          <li>🤝 Open source contributor</li>
-          <li>📚 Continuous learner</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3>🎯 Random Facts</h3>
-        <ul align="left">
-          <li>☕ 8+ cups of coffee daily</li>
-          <li>� Code best at 3 AM</li>
-          <li>🎮 Gaming break = problem solving</li>
-          <li>📖 Read 50+ tech papers annually</li>
-          <li>� Vim enthusiast (fight me)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## � Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://wakatime.com/share/@s1dc0des/your-wakatime-stats.svg" alt="Wakatime Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Made%20with-Markdown%20%26%20Web3%20Magic-1f425f.svg?style=for-the-badge" alt="Made with Markdown & Web3 Magic" />
-    <img src="https://img.shields.io/badge/Powered%20by-Coffee%20%26%20Code-brown?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Powered by Coffee & Code" />
-  </p>
-  
-  <sub><sup>⭐ Star this repository if you found it helpful! | 🚀 Always building the future of Web3</sup></sub>
 </div>
