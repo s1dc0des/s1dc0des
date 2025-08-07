@@ -1,26 +1,5 @@
 # � Hi there, I'm Sid - Web3 Developer & AI Automation Expert
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Web3+Developer;Solidity+%26+Rust+Expert;AI+Agent+Builder;Blockchain+Architect;Smart+Contract+Auditor;DeFi+Protocol+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=s1dc0des&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Web3%20%26%20AI-00D9FF?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Senior%20Developer-00D9FF?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-00D9FF?style=for-the-badge" alt="Experience" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s1dc0des&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=9F9F9F&icon_color=00D9FF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1dc0des&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=9F9F9F&sideNums=9F9F9F&currStreakLabel=9F9F9F&sideLabels=9F9F9F&dates=9F9F9F" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1dc0des&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=9F9F9F" alt="Top Languages" />
-</div>
-
----
 
 ## � About Me
 
@@ -110,72 +89,27 @@
 
 ---
 
-## 🚀 Featured Projects & Contributions
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Web3+Developer;Solidity+%26+Rust+Expert;AI+Agent+Builder;Blockchain+Architect;Smart+Contract+Auditor;DeFi+Protocol+Developer" alt="Typing SVG" />
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔗 DeFi Protocol Suite</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-          <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
-          <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin" />
-        </div>
-        <p align="center">
-          • Yield farming & liquidity mining protocols<br>
-          • Advanced AMM implementations<br>
-          • Gas-optimized smart contracts<br>
-          • Cross-chain bridge architecture
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 AI Trading Agent Network</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-          <img src="https://img.shields.io/badge/Web3.py-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.py" />
-        </div>
-        <p align="center">
-          • Multi-agent MEV extraction system<br>
-          • Automated arbitrage detection<br>
-          • Risk management algorithms<br>
-          • Real-time market analysis
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">⚡ Rust Blockchain Node</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-          <img src="https://img.shields.io/badge/Substrate-000000?style=for-the-badge&logo=polkadot&logoColor=white" alt="Substrate" />
-          <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
-        </div>
-        <p align="center">
-          • High-performance consensus mechanism<br>
-          • Custom runtime modules<br>
-          • P2P networking protocols<br>
-          • Cross-chain communication
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🌐 Web3 dApp Framework</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js" />
-        </div>
-        <p align="center">
-          • Wallet connection management<br>
-          • Multi-chain support<br>
-          • Smart contract interaction layer<br>
-          • Advanced Web3 UI components
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=s1dc0des&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Web3%20%26%20AI-00D9FF?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Senior%20Developer-00D9FF?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-00D9FF?style=for-the-badge" alt="Experience" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s1dc0des&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=9F9F9F&icon_color=00D9FF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s1dc0des&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=9F9F9F&sideNums=9F9F9F&currStreakLabel=9F9F9F&sideLabels=9F9F9F&dates=9F9F9F" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1dc0des&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=9F9F9F" alt="Top Languages" />
+</div>
+
+---
 
 
 
