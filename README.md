@@ -72,23 +72,6 @@ portfolio = {
 }
 ```
 
-```python
-# stats.py
-github_profile = {
-    "profile_views": 15200,
-    "focus": "Web3 & AI Development",
-    "status": "Senior Developer",
-    "experience_years": 5,
-    "contributions": "active",
-    "languages": {
-        "Solidity": 35,
-        "Rust": 25, 
-        "TypeScript": 20,
-        "Python": 15,
-        "Other": 5
-    }
-}
-```
 
 ```python
 # contact.py
@@ -99,15 +82,5 @@ social_links = {
     "discord": "s1dc0des",
     "telegram": "https://t.me/s1dc0des"
 }
-
-expertise_areas = [
-    "Smart Contract Architecture",
-    "AI Agent Development",
-    "Rust Blockchain Solutions", 
-    "Security Auditing",
-    "Cross-Chain Protocols",
-    "DeFi Innovation"
-]
-
-motto = "Building the decentralized future, one smart contract at a time."
+motto = "machines X humanity"
 ```
